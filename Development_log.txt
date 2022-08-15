@@ -5,3 +5,10 @@ DEVELOPMENT LOG
 08/09/2022 23:30 - Final project setup and testing.
     -Add <div id="content"> to dist/index.html file.
     -Add alert statement to src/index.js file.
+
+08/14/2022 20:11 - Restaurant bare-bones homepage.
+    -Add assets folder.
+    -Add restaurant image.
+    -Add src/style.css file.
+    -Add src/normalize.css file.
+    -Add basic css style rules.
