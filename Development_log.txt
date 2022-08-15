@@ -12,3 +12,10 @@ DEVELOPMENT LOG
     -Add src/style.css file.
     -Add src/normalize.css file.
     -Add basic css style rules.
+
+08/14/2022 20:35 - Create initial_page_load file and initialPageLoad() function.
+    -Delete homepage elements hardcoded in index.html file.
+    -Add src/initial_page_load.js file.
+    -Add function to initially load page in src/initial_page_load.js file.
+    -Add import as module from src/initial_page_load file to index.js file.
+    -Add module.initialPageLoad() function call to index.js file.
