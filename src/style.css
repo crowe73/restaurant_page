@@ -1,6 +1,8 @@
 body
 {
     background-color: #ff0000;
+    margin: 0px;
+    padding: 0px;
 }
 
 #content
@@ -9,15 +11,45 @@ body
     text-align: center;
 }
 
-.top-image
+.image
 {
     margin: 25px;
 }
 
-.landing-page-copy
+.landing-page-copy, .menu-copy, .contact-copy
 {
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 900;
     font-style: normal;
+}
+
+header
+{
+    background-color: #0000ff;
+    height: 50px;
+}
+
+ul
+{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    height: 50px;
+}
+
+li
+{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    border-radius: 5px 5px 0px 0px;
+    border-top: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    cursor: pointer;
 }

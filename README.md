@@ -9,3 +9,5 @@
 08/14/2022 20:11 - Restaurant bare-bones homepage.
 
 08/14/2022 20:35 - Create initial_page_load file and initialPageLoad() function.
+
+08/17/2022 22:52 - Menu and Contact pages.

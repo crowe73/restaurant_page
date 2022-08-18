@@ -19,3 +19,12 @@ DEVELOPMENT LOG
     -Add function to initially load page in src/initial_page_load.js file.
     -Add import as module from src/initial_page_load file to index.js file.
     -Add module.initialPageLoad() function call to index.js file.
+
+08/17/2022 22:52 - Menu and Contact pages.
+    -Add header and tab elements in dist/index.html file.
+    -Add tab switching module function to src/index.js file.
+    -Style header, ul, and li tags in src/style.css.
+    -Add code to remove existing DOM children if present in src/initial_page_load file.
+    -Add src/menu.js, and src/contact.js files.
+    -Add menu() function in src/menu.js file.
+    -Add contact() function in src/contact.js.
